@@ -1,1 +1,22 @@
-hola
+# Archivos temporales y de compilación
+*.bin
+*.hex
+*.elf
+*.o
+*.d
+*.map
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos del editor
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Carpetas ocultas de configuración
+.vscode/
+.idea/
+.arduinoIDE/
